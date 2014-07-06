@@ -16,3 +16,9 @@ process to describe the bacterial growth rate. We discuss the
 stability of the equilibria for the biomass growth as a function
 of the rate of growth ($\mu_{max}$), decay ($K_d$), saturation
 ($K_s$), and yield ($\eta$) constants.
+
+### Development branch status
+[![Build Status](https://travis-ci.org/icaoberg/bioreactor.svg?branch=dev)](https://travis-ci.org/icaoberg/bioreactor)
+
+### Master branch status
+[![Build Status](https://travis-ci.org/icaoberg/bioreactor.svg?branch=master)](https://travis-ci.org/icaoberg/bioreactor)
