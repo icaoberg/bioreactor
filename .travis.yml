@@ -1,0 +1,10 @@
+language: cpp
+
+# whitelist
+branches:
+  only:
+    - dev
+    - master
+
+script:
+    - gcc -o bioreactor.o bioreactor.cxx
