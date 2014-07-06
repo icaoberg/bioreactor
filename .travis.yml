@@ -7,5 +7,5 @@ branches:
     - master
 
 script:
-    - gcc -o bioreactor.o bioreactor.cxx
-    - ./bioreactor.o
+    - gcc -o bioreactor bioreactor.cxx
+    - ./bioreactor
