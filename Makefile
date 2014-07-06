@@ -13,4 +13,6 @@
 
 all:
 	g++ bioreactor.cxx -o bioreactor
+	./bioreactor > output.txt
+	rm -f bioreactor
 
