@@ -1,4 +1,4 @@
-# A mathematical approach of the dynamics of a bacterial community in a membrane-coupled bioreactor
+## A mathematical approach of the dynamics of a bacterial community in a membrane-coupled bioreactor
 
 Ivan E. Cao-Berg, Martin Engman, Victor Iglesias, Wilnely Luna 
 
