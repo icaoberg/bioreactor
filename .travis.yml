@@ -8,3 +8,4 @@ branches:
 
 script:
     - gcc -o bioreactor.o bioreactor.cxx
+    - ./bioreactor.o
