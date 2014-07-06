@@ -1,7 +1,9 @@
 # A mathematical approach of the dynamics of a bacterial community in a membrane-coupled bioreactor
 
-Iv\'an E. Cao-Berg, Martin Engman, Victor Iglesias, Wilnely Luna 
+Ivan E. Cao-Berg, Martin Engman, Victor Iglesias, Wilnely Luna 
+
 School of Science, Technology and Health, Universidad Metropolitana, San Juan, Puerto Rico
+
 December 17, 2003
 
 Membrane-coupled bioreactors (MBRs) are advantageous for
