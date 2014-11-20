@@ -6,6 +6,11 @@ branches:
     - dev
     - master
 
+before_install:
+    - sudo apt-get update -qq
+    - sudo apt-get install -qq gnuplot-x11
+
 script:
     - gcc -o bioreactor bioreactor.cxx
     - ./bioreactor
+    - gnuplot bioreactor.plt
