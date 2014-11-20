@@ -22,3 +22,7 @@ of the rate of growth ($\mu_{max}$), decay ($K_d$), saturation
 
 ### Master branch status
 [![Build Status](https://travis-ci.org/icaoberg/bioreactor.svg?branch=master)](https://travis-ci.org/icaoberg/bioreactor)
+
+### Results
+
+![The classical Runge–Kutta method solution](bioreactor.png)
