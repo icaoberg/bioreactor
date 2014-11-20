@@ -12,5 +12,5 @@ before_install:
 
 script:
     - gcc -o bioreactor bioreactor.cxx
-    - ./bioreactor
+    - ./bioreactor > bioreactor.dat
     - gnuplot bioreactor.plt
