@@ -26,8 +26,8 @@ processes in a MBRs. The mathematical expressions for change in
 the biomass are presented and combined with a substrate removal
 process to describe the bacterial growth rate. We discuss the
 stability of the equilibria for the biomass growth as a function
-of the rate of growth ($\mu_{max}$), decay ($K_d$), saturation
-($K_s$), and yield ($\eta$) constants.
+of the rate of growth (mu_{max}), decay (K_d), saturation
+(K_s), and yield (eta) constants.
 
 ### Results
 
